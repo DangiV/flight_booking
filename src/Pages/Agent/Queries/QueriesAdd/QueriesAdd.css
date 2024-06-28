@@ -1,0 +1,22 @@
+.queriesadd .save-btn{
+    float: right;
+}
+.queriesadd .cancel-btn{
+    float: right;
+    background-color: #ced4da;
+    margin-right: 10px;
+}
+.queriesadd .qumiscel{
+    margin-left: 12px;
+}
+.queriesadd .aneous{
+    margin-left: 7px;
+}
+@media(max-width:1399px){
+    .queriesadd .qumiscel{
+        margin-left: 0px;
+    }
+    .queriesadd .aneous{
+        margin-left: 0px;
+    }
+}
